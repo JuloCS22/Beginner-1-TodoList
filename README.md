@@ -1,2 +1,4 @@
 # Beginner-1-TodoList
-Created with CodeSandbox
+
+
+A Simple TodoList created as part of my Portfolio.
